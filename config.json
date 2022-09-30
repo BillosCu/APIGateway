@@ -1,0 +1,7 @@
+{
+    "url-apigateway": "127.0.0.1",
+    "port-apigateway": 7777,
+    "url_back": "http://127.0.0.1:9999",
+    "url_security": "http://127.0.0.1:8080",
+    "jwt-key": "super-secret"
+}
